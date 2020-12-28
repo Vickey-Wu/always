@@ -1,0 +1,7 @@
+<PAMDataset>
+  <SRS>PROJCS[&quot;CGCS2000_3_Degree_GK_Zone_37&quot;,GEOGCS[&quot;GCS_CGCS_2000&quot;,DATUM[&quot;D_CGCS_2000&quot;,SPHEROID[&quot;CGCS_2000&quot;,6378137.0,298.257222101]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Transverse_Mercator&quot;],PARAMETER[&quot;false_easting&quot;,37500000.0],PARAMETER[&quot;false_northing&quot;,0.0],PARAMETER[&quot;central_meridian&quot;,111.0],PARAMETER[&quot;scale_factor&quot;,1.0],PARAMETER[&quot;latitude_of_origin&quot;,0.0],UNIT[&quot;Meters&quot;,1.0]]</SRS>
+  <PAMRasterBand band="1">
+    <Description>111c2</Description>
+    <NoDataValue>2.56000000000000E+002</NoDataValue>
+  </PAMRasterBand>
+</PAMDataset>
